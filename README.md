@@ -1,6 +1,6 @@
 # weixinAreaDataCrawl
 A javascript tool that can crawl Weichat area datas,including countries,provinces,cities.抓取微信国家、省市地区数据工具。
-
+![截图](https://github.com/houyhea/weixinAreaDataCrawl/blob/master/screenshot.png?raw=true)
 ## 使用说明
 1. 首先，用自己的账号登录微信公众平台。然后打开开发者工具，并切换到consoletab；
 1. 将crawl.js的脚本内容拷贝到console的输入行；
